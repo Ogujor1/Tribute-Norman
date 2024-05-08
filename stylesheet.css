@@ -1,0 +1,89 @@
+*{
+  font-family: sans-serif;
+}
+
+.container{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(138, 7, 7);
+  padding-top: 50px;
+  border-radius: 5px;
+  margin-top: 45px;
+  border: none;
+  height: 2500px;
+  padding-left: 15px;
+  padding-right: 0px;
+}
+
+.image-container{
+  background-image: url('images/1.jpg');
+  width: 1540px;
+  height: 500px;
+  padding-top: 10px; 
+  padding-bottom: 145px;
+  background-size: cover;
+  margin-top: 25px;
+  background-color: rgb(124, 21, 21);
+  background-blend-mode: overlay;
+  
+}
+.owner-pic{
+  width: 1000px;
+  height: 600px;
+}
+.short-caption{
+  font-size: 17px;
+  margin-bottom: 10px;
+}
+h1{
+  font-size: 68px;
+  line-height: 20px;
+  padding-top: 25px;
+  padding-bottom:20px ;
+  
+}
+.owner-decription{
+  font-size: 18px;
+  color: #c7c2c2;
+}
+.short-profile{
+  font-size: 20px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  font-weight: bolder;
+}
+.buttom-profile{
+  width: 700px;
+  margin-left: 450px;
+  font-size: 25px;
+  text-align: left;
+  line-height-step: 1px;
+}
+.india-Minister{
+  font-size:17px ;
+  margin-right: 260px;
+  margin-left: 25px;
+}
+.footer{
+  font-weight: bolder;
+  font-size: 20px;
+  margin-top: 80px;
+}
+.designer{
+  font-size: 25px;
+}
+ul li{
+  
+  font-size: 16px;
+  margin-bottom: 25px;
+  margin-right: 30px;
+  line-height: 25px;
+}
+.buttom-profile p{
+  font-size: 20px;
+}
+.life-success{
+  margin-top: 14px;
+  margin-left:25px;
+  font-size: 10px;
+}
